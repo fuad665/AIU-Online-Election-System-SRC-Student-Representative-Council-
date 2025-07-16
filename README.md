@@ -89,10 +89,6 @@
    * Open `includes/connection.php`
    * Update DB name, username, and password
 
-5. **Launch in Browser:**
-
-
-   http://localhost/aiu-vote-sphere/
    ```
 
 
